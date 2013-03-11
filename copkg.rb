@@ -1,8 +1,5 @@
 require 'formula'
 
-# Documentation: https://github.com/mxcl/homebrew/wiki/Formula-Cookbook
-# PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
-
 class Copkg < Formula
   homepage 'http://cloudname.org/'
   url 'http://cloudname.org/experimental/borud/copkg/copkg-1.2-SNAPSHOT-bin.tar.gz'
