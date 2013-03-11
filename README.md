@@ -1,15 +1,13 @@
 # homebrew formulae
 
-Some homebrew recipes I've made.  To make use of these add this
-repository as a tap:
-
-    brew tap borud/homebrew
+My Homebrew formulae.
 
 ## copkg.rb
 
 Experimental minimalist packaging system.
 
-    brew install copkg
+    brew install https://raw.github.com/borud/homebrew/master/copkg.rb
+
 
 
 
